@@ -1,3 +1,4 @@
+//declare variable nd assigning string
 var y = 'murat';
 
 console.log('the value of my string will be : murat');

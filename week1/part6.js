@@ -1,4 +1,4 @@
-//part-6
+//arrays
 var muratArrays = [];
 
 console.log('My array is empty');

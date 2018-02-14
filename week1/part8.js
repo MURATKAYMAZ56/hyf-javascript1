@@ -1,3 +1,4 @@
+//indicating types of variable and compare each other
 let type1 = 56;
 let type2 = 'Murat';
 let type3 = true;

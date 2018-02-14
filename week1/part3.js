@@ -1,3 +1,4 @@
+//declaere and initilize variable
 var x;
 console.log('the value of x would be : undefined');
 

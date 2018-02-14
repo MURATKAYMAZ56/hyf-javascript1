@@ -1,4 +1,4 @@
-//part-5
+//roundig number and comparing 
 var z = 7.25;
 console.log(z);
 var a = Math.round(z);

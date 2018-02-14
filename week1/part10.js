@@ -1,3 +1,4 @@
+//multiples types in array
 let multArray = [5, 'string'];
 console.log(multArray);
 
