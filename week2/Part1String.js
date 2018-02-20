@@ -4,4 +4,4 @@ console.log(myString);
 
 console.log("myString.length = " + myString.length);
 
-console.log(myString.replace(/,/g, ' '));///g will mean that all of the matching values are replaced.
+console.log(myString.replace(/,/g, ' '));///g  means that all of the matching values are replaced.

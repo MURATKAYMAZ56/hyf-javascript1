@@ -1,5 +1,6 @@
 var teachers = {
-    phil: ['html', 'css'],
+    phillipe: ['html', 'css'],
     unmesh: ['git'],
-    mauro: ['javascript']
+    mauro: ['javascript1', 'git']
 };
+console.log(teachers);
